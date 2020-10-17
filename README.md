@@ -1,2 +1,2 @@
-# C-31
-Smoke
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
